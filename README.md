@@ -22,7 +22,7 @@ I'm 21y/o Front-end developer from Brazil.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p>
+<p display=flex gap=30px>
   <img width="450em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOshima&layout=compact&theme=vision-friendly-dark" alt="ViniciusOshima's most languages"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOshima&show_icons=true&theme=vision-friendly-dark" alt="ViniciusOshima's stats"/>
 </p>
