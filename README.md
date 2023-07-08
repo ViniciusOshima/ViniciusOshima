@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/ViniciusOshima/0fce25c481e2d868cc170079ca12115a/raw/596ed414ab34e8896b058af06cf8418f6a23d81c/githubcard2.svg"/>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/ViniciusOshima/45d5e73133306cc287c8e92a23fcdb74/raw/e960f1905791cd6c4242e28e5ab04724d1e68a44/githubcard.svg"/>
 <h1 align="left">Hi 👋, I'm Vinícius Oshima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusOshima&color=yellow" alt="Profile views" /> </p>
 
