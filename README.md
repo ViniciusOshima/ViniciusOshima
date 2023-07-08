@@ -20,14 +20,12 @@ I'm 21y/o Front-end developer from Brazil.
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p>
-  <img width="450em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOshima&layout=compact&theme=vision-friendly-dark" alt="ViniciusOshima's most languages"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOshima&show_icons=true&theme=vision-friendly-dark" alt="ViniciusOshima's stats"/>
-</p>
+<div align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOshima&layout=compact&hide_border=true&title_color=dbac2c&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniciusOshima&show_icons=true&count_private=true&hide_border=true&title_color=dbac2c&icon_color=dbac2c&text_color=c9d1d9&bg_color=0d1117" alt="ViniciusOshima github stats" /> 
+</div>
 
 <!--
 
