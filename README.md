@@ -7,7 +7,7 @@ I'm 21y/o Front-end developer from Brazil.
 
 - 🚀 **Rocketseat** student honing my web development skills
 
-- 🔥 practicing and developing some projects with amazing technologies, such as **ReactJS**, **Typescript**, **JavasCript**, **NodeJS**, and others.
+- 🔥 practicing and developing some projects with amazing technologies, such as **NextJS**, **ReactJS**, **Typescript**, **JavasCript**, **NodeJS**, and others.
 
 <br><br>
 
